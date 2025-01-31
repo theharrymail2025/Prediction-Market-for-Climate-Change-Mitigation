@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/climate-prediction-nft.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.market-registry]
+path = 'contracts/market-registry.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
