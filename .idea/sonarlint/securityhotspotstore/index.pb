@@ -7,3 +7,5 @@ T
 $tests/climate-prediction-nft.test.ts,4/9/49d195a2e573092164a7a4126178afa80925333e
 N
 contracts/market-registry.clar,d/7/d7f2c0c92e1daf4c696126246b705b08ab1f2f8e
+M
+tests/market-registry.test.ts,7/6/76f7183ead3b278b5d66e20d5be94eb77363ee63
